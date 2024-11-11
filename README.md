@@ -1,2 +1,1 @@
-# whigo
-Whisky Search Portal
+# Whisky Search Portal
